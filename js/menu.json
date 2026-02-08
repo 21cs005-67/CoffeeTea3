@@ -1,0 +1,98 @@
+[
+
+  { "name": "Three Egg Omelet", "price": 299, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Three-Egg-Omelet.jpg" },
+  { "name": "Fried Eggs", "price": 249, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Fried-Eggs.jpg" },
+  { "name": "Eggs Benedictine", "price": 349, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Eggs-Benedictine.jpg" },
+  { "name": "Spanish Omelet", "price": 289, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Spanish-Omelet.jpg" },
+  { "name": "Shakshouka", "price": 329, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Shakshouka.jpg" },
+  { "name": "Egg Bhurjee", "price": 259, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Egg-Bhurjee.jpg" },
+  { "name": "English Breakfast", "price": 399, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/English-Breakfast.jpg" },
+
+  { "name": "Overnight Oats", "price": 219, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Overnight-Oats.jpg" },
+  { "name": "Porridge", "price": 199, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Porridge.jpg" },
+  { "name": "Congee", "price": 229, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Congee.jpg" },
+
+  { "name": "French Toast – Classic/Banoffee/Tiramisu", "price": 249, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/French-Toast-Varieties.jpg" },
+  { "name": "Pancake – Classic/Blueberry", "price": 239, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Pancake-Varieties.jpg" },
+  { "name": "Waffle – Nutella/Classic/Salted Caramel", "price": 289, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Waffle-Varieties.jpg" },
+
+  { "name": "Turkey Ham and Cheese", "price": 289, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Turkey-Ham-Cheese.jpg" },
+  { "name": "Fried Egg", "price": 219, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Fried-Bagel-Eggs.jpg" },
+  { "name": "Sausage And Egg", "price": 199, "category": "breakfast", "veg": "egg", "img": "assets/image/breakfast/Sausage-Egg.jpg" },
+  { "name": "Cream Cheese Bagel", "price": 229, "category": "breakfast", "veg": "veg", "img": "assets/image/breakfast/Cream-Cheese-Bagel.jpg" },
+
+  { "name": "Rice Arancini Balls, Sundried Tomato Chutney", "price": 240, "category": "starter", "veg": "veg", "img": "assets/image/starters/Rice-Arancini-Balls.jpg" },
+  { "name": "Nachos with Guacamole, Sour Cream and Salsa", "price": 260, "category": "starter", "veg": "veg", "img": "assets/image/starters/Nachos.jpg" },
+  { "name": "Bruschetta – Tomato Bocconcini, Grilled Vegetable Feta", "price": 230, "category": "starter", "veg": "veg", "img": "assets/image/starters/Bruschetta-Tomato.jpg" },
+  { "name": "Crispy Fried Corn", "price": 220, "category": "starter", "veg": "veg", "img": "assets/image/starters/Crispy-Fried-Corn.jpg" },
+  { "name": "Hummus, Falafel & Pita Bread", "price": 280, "category": "starter", "veg": "veg", "img": "assets/image/starters/Hummus-Falafel-Bread.jpg" },
+  { "name": "Mini Paneer Tikka Wrap", "price": 250, "category": "starter", "veg": "veg", "img": "assets/image/starters/Mini-Paneer-Tikka-Wrap.jpg"},
+  { "name": "Korean Buffalo Wings", "price": 340, "category": "starter", "veg": "nonveg", "img": "assets/image/starters/Korean-Buffalo-Wings.jpg" },
+  { "name": "Crispy Peri Peri Tossed Chicken Popcorn", "price": 320, "category": "starter", "veg": "nonveg", "img": "assets/image/starters/Crispy-Chicken-Peri-Tossed-Popcorn.jpg" },
+  { "name": "Cajun Spiced Fish Finger, Pickled Aioli", "price": 360, "category": "starter", "veg": "nonveg", "img": "assets/image/starters/Cajun-Spiced-Fish-Finger.jpg" },
+  { "name": "Bruschetta – Jerk Chicken, Grilled Prawn", "price": 380, "category": "starter", "veg": "nonveg", "img": "assets/image/starters/Bruschetta-Jerk-Chicken.jpg" },
+  { "name": "Ghee Roast Prawn", "price": 420, "category": "starter", "veg": "nonveg", "img": "assets/image/starters/Ghee-Roast-Prawn.jpg" },
+  { "name": "Mini Chicken Tikka Wrap", "price": 280, "category": "starter", "veg": "nonveg", "img": "assets/image/starters/Mini-Chicken-Tikka-Wrap.jpg" },
+  
+  {"name": "Quinoa Salad","price": 280,"category": "salad","veg": "veg","img": "assets/image/salads/Quinoa-Salad.jpg" },
+  {"name": "Watermelon and Feta Salad","price": 260,"category": "salad","veg": "veg","img": "assets/image/salads/Watermelon-Feta-Salad.jpg" },
+  {"name": "Caesar Salad - Chicken","price": 320,"category": "salad","veg": "nonveg","img": "assets/image/salads/caesar-Salad-NonVegetarian.jpg" },
+  {"name": "Asian Sesame Chicken Salad", "price": 340, "category": "salad", "veg": "nonveg", "img": "assets/image/salads/Asian-Sesame-Chicken-Salad.jpg" },
+
+  {"name": "Veg Pulao Rice, Paneer Makhani","price": 360,"category": "bowl","veg": "veg","img": "assets/image/bowls/Veg-Pulao-Rice-Paneer-Makhani.jpg" },
+  {"name": "Veg Pulao Rice, Chicken Tikka Makhani","price": 420,"category": "bowl","veg": "nonveg","img": "assets/image/bowls/Veg-Pulao-Rice-Chicken-Tikka-Makhani.jpg" },
+  {"name": "Mexican Rice Bowl with Potato Shots","price": 340,"category": "bowl","veg": "veg","img": "assets/image/bowls/Mexican-Rice-Bowl-Potato-Shots.jpg" },
+  {"name": "Mexican Rice Bowl with Chicken","price": 390,"category": "bowl","veg": "nonveg","img": "assets/image/bowls/Mexican-Rice-Bowl-Chicken.jpg"},
+  {"name": "Budha Bowl Vegetarian","price": 350,"category": "bowl","veg": "veg","img": "/assets/image/bowls/Budha-Bowl-Vegetarian.jpg" },
+  {"name": "Budha Bowl Non Vegetarian","price": 400,"category": "bowl","veg": "nonveg","img": "assets/image/bowls/Budha-Bowl-Non-Vegetarian.jpg"},
+
+  { "name": "Panko Crumbed Vegetable Burger", "price": 300, "category": "burger", "veg": "veg", "img": "assets/image/burgers/Panko-Crumbled-Vegetable-Burger.jpg" },
+  { "name": "Grilled Chicken Burger", "price": 340, "category": "burger", "veg": "nonveg", "img": "assets/image/burgers/Grilled-Chicken-Burger.jpg" },
+  { "name": "Lamb Medallion Burger", "price": 420, "category": "burger", "veg": "nonveg", "img": "assets/image/burgers/Lamb-Medallion-Burger.jpg" },
+  { "name": "Korean Fried Chicken Burger", "price": 380, "category": "burger", "veg": "nonveg", "img": "assets/image/burgers/Korean-Fried-Chicken-Burger.jpg" },
+
+  {"name": "Paneer Tikka Sandwich","description": "Choose your bread: Foccacia, Multigrain Baguette, or Panini. Served with fries.","price": 320,"category": "sandwich", "veg": "veg","img": "assets/image/sandwich/Paneer-Tikka-Sandwich.jpg" },
+  {"name": "Grilled Veg with Pesto Sandwich","description": "Choose your bread: Foccacia, Multigrain Baguette, or Panini. Served with fries.","price": 300,"category": "sandwich","veg": "veg","img": "assets/image/sandwich/Grilled-Veg-Pesto.jpg"},
+  {"name": "Jerk Cottage Cheese Sandwich","description": "Choose your bread: Foccacia, Multigrain Baguette, or Panini. Served with fries.","price": 330,"category": "sandwich","veg": "veg","img": "assets/image/sandwich/Jerk-Cottage-Cheese.jpg"},
+  {"name": "Chicken Tikka Sandwich","description": "Choose your bread: Foccacia, Multigrain Baguette, or Panini. Served with fries.","price": 360,"category": "sandwich","veg": "nonveg","img": "assets/image/sandwich/Chicken-Tikka-Sandwich.jpg"},
+  {"name": "Jamaican Pulled Chicken Sandwich","description": "Choose your bread: Foccacia, Multigrain Baguette, or Panini. Served with fries.", "price": 380, "category": "sandwich", "veg": "nonveg","img": "/assets/image/sandwich/Jamaican-Pulled-Chicken-Sandwich.jpg"},
+  {"name": "Tuna Mayo Sandwich","description": "Choose your bread: Foccacia, Multigrain Baguette, or Panini. Served with fries.","price": 390,"category": "sandwich","veg": "nonveg","img": "/assets/image/sandwich/Tuna-Mayo.jpg"},
+
+  {"name":"Fresh Garden Vegetables","price":340,"category":"pasta","veg":"veg","img":"assets/image/pasta/Fresh-Garden-Vegetables-Pasta.jpg"},
+  {"name":"Grilled Chicken","price":390,"category":"pasta","veg":"nonveg","img":"assets/image/pasta/Grilled-Chicken-Pasta.jpg"},
+  {"name":"Pasta with Mixed Seafood","price":440,"category":"pasta","veg":"nonveg","img":"assets/image/pasta/Mixed-Seafood-Pasta.jpg"},
+  {"name":"Aglioli Sauce Pasta","price":340,"category":"pasta","veg":"veg","img":"assets/image/pasta/Aglioli.jpg"},
+  {"name":"Arrabiatta Sauce Pasta","price":340,"category":"pasta","veg":"veg","img":"assets/image/pasta/Arrabiatta-Pasta.jpg"},
+  {"name":"Cream & Cheese Pasta","price":360,"category":"pasta","veg":"veg","img":"assets/image/pasta/Cream-Cheese-Pasta.jpg"},
+  {"name":"Lamb Bolognaise Pasta","price":460,"category":"pasta","veg":"nonveg","img":"assets/image/pasta/Lamb-Bolognaise-Pasta.jpg"},
+  {"name":"Spring Vegetable Lasagna, Herb Crumb","price":420,"category":"pasta","veg":"veg","img":"assets/image/pasta/Spring-Vegetable-Pasta.jpg"},
+  {"name":"Cottage Cheese Steak, Creamy Saffron Sauce","price":440,"category":"pasta","veg":"veg","img":"assets/image/pasta/Cottage-Cheese-Steak-Pasta.jpg"},
+  {"name":"Chicken Lasagna","price":480,"category":"pasta","veg":"nonveg","img":"assets/image/pasta/Chicken-Lasagna.jpg"},
+
+  { "name": "Stuffed Chicken Breast, Mushroom Duxelle, Jus", "price": 480, "category": "maincourse", "veg": "nonveg", "img": "assets/image/maincourse/Stuffed-Chicken-Breasts.jpg" },
+  { "name": "Chimichurri Grilled Prawn", "price": 520, "category": "maincourse", "veg": "nonveg", "img": "assets/image/maincourse/Chimichuri-Grilled-Prawn.jpg" },
+  { "name": "Cajun Spiced Fish and Chips", "price": 490, "category": "maincourse", "veg": "nonveg", "img": "assets/image/maincourse/Cajun-Spiced-Fish-Chips.jpg" },
+  { "name": "Lamb Medallions with Jus", "price": 560, "category": "maincourse", "veg": "nonveg", "img": "assets/image/maincourse/Lamb-Medallions-with-Jus.jpg" },
+
+  { "name": "Paneer Tikka Pizza", "price": 420, "category": "pizza", "veg": "veg", "img": "assets/image/pizza/Paneer-Tikka-Pizza.jpg" },
+  { "name": "Veggie Lovers Pizza", "price": 400, "category": "pizza", "veg": "veg", "img": "assets/image/pizza/Veggie-Lovers-Pizza.jpg" },
+  { "name": "Four Cheese Pizza", "price": 450, "category": "pizza", "veg": "veg", "img": "assets/image/pizza/Four-Cheese-Pizza.jpg" },
+  { "name": "Chicken Tikka Pizza", "price": 460, "category": "pizza", "veg": "nonveg", "img": "assets/image/pizza/Chicken-Tikka-Pizza.jpg" },
+  { "name": "Seafood Pizza", "price": 520, "category": "pizza", "veg": "nonveg", "img": "assets/image/pizza/Mixed-Seafood-Pizza.jpg" },
+  { "name": "Chicken Pepperoni Pizza", "price": 480, "category": "pizza", "veg": "nonveg", "img": "assets/image/pizza/Chicken-Pepperoni-Pizza.jpg" },
+
+
+  {"name":"Lemon Meringue Tart","price":320,"category":"dessert","veg":"veg","img":"assets/image/dessert/Lemon-Marine-Tart.jpg"},
+  {"name":"Burnt Cheesecake","price":340,"category":"dessert","veg":"veg","img":"assets/image/dessert/Burned-Cheesecake.jpg"},
+  {"name":"Panna Cotta","price":300,"category":"dessert","veg":"veg","img":"assets/image/dessert/Panacota.jpg"},
+  {"name":"Strawberry Blueberry Terrine","price":360,"category":"dessert","veg":"veg","img":"assets/image/dessert/Strawberry-Blueberry-Terrain.jpg"},
+  {"name":"Chocolate Mousse Terrine","price":360,"category":"dessert","veg":"veg","img":"assets/image/dessert/Choco-Mousse-Terrain.jpg"},
+  {"name":"Russian Honey Cake","price":380,"category":"dessert","veg":"veg","img":"assets/image/dessert/Russian-HoneyCake.jpg"},
+  {"name":"Pistachio Tart","price":380,"category":"dessert","veg":"veg","img":"assets/image/dessert/Pstachio-Tart.jpg"},
+  {"name":"Hazelnut Paris Brest","price":420,"category":"dessert","veg":"veg","img":"assets/image/dessert/Hazelnut-Paris-Brest.jpg"},
+  {"name":"Crunchy Pistachio","price":360,"category":"dessert","veg":"veg","img":"assets/image/dessert/Crunchy-Pistachio.jpg"},
+  {"name":"Opera","price":420,"category":"dessert","veg":"veg","img":"assets/image/dessert/Opera.jpg"},
+  {"name":"Chocolate Tart","price":360,"category":"dessert","veg":"veg","img":"assets/image/dessert/chocolate-tart.jpg"},
+  {"name":"Apple Crumble","price":340,"category":"dessert","veg":"veg","img":"assets/image/dessert/apple-crumble.jpg"}
+
+]

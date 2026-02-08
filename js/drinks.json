@@ -1,0 +1,161 @@
+[
+  {
+    "category": "drinks",
+    "section": "HOT SECTION",
+    "title": "Classic – All Time Favourite",
+    "description": "Our Espresso is a single-estate, Medium Dark Roast with caramel sweetness and bold winey notes, delivering a rich, concentrated shot crowned with thick, golden crema.",
+    "veg": "veg",
+    "items": [
+
+      { "name": "Madras Filter Coffee", "price": 59,"img": "assets/image/drinks/Madras-Filter-Coffee.jpg" },     
+      { "name": "Espresso","single": 129,"double": 179 , "img" :"assets/image/drinks/Espresso-Medium-Dark-Roast.jpg"},
+      { "name": "Macchiato (Caramel)","single": 149,"double": 199 ,"img": "assets/image/drinks/Macchiato.jpg"},
+      { "name": "Americano (Hot / Cold)","single": 189,"double": 219,"img": "assets/image/drinks/Americano.jpg"},
+      { "name": "Cappuccino (Hot / Cold)","price": 229,"img": "assets/image/drinks/Cappuccino.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "LOVE OF LATTE",
+    "title": "Hot / Cold",
+    "description": "A perfectly balanced blend of rich espresso and silky steamed milk topped with a light layer of micro foam.",
+    "veg": "veg",
+    "items": [
+      { "name": "Cafe Latte", "regular": 199, "large": 249,"img": "assets/image/drinks/Cafe-Latte.jpg" },
+      { "name": "Flat White", "regular": 199, "large": 249,"img": "assets/image/drinks/Flat-White.jpg" },
+      { "name": "Cafe Mocha", "regular": 229, "large": 279,"img": "assets/image/drinks/Cafe-Mocha.jpg" },
+      { "name": "Vanilla Latte", "regular": 229, "large": 279 ,"img": "assets/image/drinks/Vanilla-Latte.jpg"},
+      { "name": "Hazelnut Latte", "regular": 229, "large": 279 ,"img": "assets/image/drinks/Hazelnut-Latte.jpg"},
+      { "name": "Caramel Latte", "regular": 229, "large": 279 ,"img": "assets/image/drinks/Caramel-Frappes.jpg"},
+      { "name": "Spanish Latte", "regular": 229, "large": 299 ,"img": "assets/image/drinks/Spanish-Latte.jpg"},
+      { "name": "Saffron Latte", "regular": 229, "large": 299 ,"img": "assets/image/drinks/Saffron-Latte.jpg"},
+      { "name": "Double Chocolate Latte", "regular": 229, "large": 299 ,"img": "assets/image/drinks/Double-Chocolate.jpg"},
+      { "name": "Brown Sugar Latte (Only Cold)", "regular": 229, "large": 299 ,"img": "assets/image/drinks/Brown-Sugar-Latte.jpg"}
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "CUSTOMIZE YOUR DRINKS",
+    "veg": "veg",
+    "items": [
+      { "name": "Milk Choice (Oat / Almond)", "price": 90 ,"img": "assets/image/drinks/Brown-Sugar-Latte.jpg" },
+      { "name": "Add Flavour (Caramel / Hazelnut / Irish)", "price": 60,"img": "assets/image/drinks/Brown-Sugar-Latte.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "TEA",
+    "title": "Black / Green / Herbal",
+    "description": "Rooted in tradition and refined by time. Each cup reflects harmony of soil, climate and craftsmanship.",
+    "veg": "veg",
+    "items": [
+      { "name": "Kadak Tea", "price": 59,"img": "assets/image/drinks/Kadak-Tea.jpg" },
+      { "name": "Masala Tea", "price": 69,"img": "assets/image/drinks/Masala-Tea.jpg" },
+      { "name": "Assam Black Tea", "price": 149,"img": "assets/image/drinks/Assam-Black-Tea.jpg" },
+      { "name": "Green Tea", "price": 149,"img": "assets/image/drinks/Green-Tea.jpg" },
+      { "name": "Lemon Chamomile", "price": 169,"img": "assets/image/drinks/Lemon-Chamomile.jpg" },
+      { "name": "Hibiscus Tea", "price": 169,"img": "assets/image/drinks/Hibiscus.jpg" },
+      { "name": "Herbal Tea", "price": 169,"img": "assets/image/drinks/Herbal-Tea.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "COLD BREW",
+    "description": "Single estate Dark Roast Nilgiri Blend, slow steeped for hours for a clean, refreshing finish.",
+    "veg": "veg",
+    "items": [
+      { "name": "Cold Brew", "regular": 189, "large": 229 ,"img": "assets/image/drinks/Cold-Brew.jpg" },
+      { "name": "Cold Brew Latte", "regular": 199, "large": 249,"img": "assets/image/drinks/Cold-Brew-Latte.jpg" },
+      { "name": "Vietnamese Cold Brew", "regular": 219, "large": 269,"img": "assets/image/drinks/Vietnamese-Cold-Brew.jpg" },
+      { "name": "Salted Vietnamese Brew", "regular": 219, "large": 269,"img": "assets/image/drinks/Salted-Vietnamese-Brew.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "FRAPPES (COFFEE)",
+    "description": "Freshly brewed house coffee blended with ice for a smooth, bold frappe.",
+    "veg": "veg",
+    "items": [
+      { "name": "Classic Cold Coffee", "regular": 249, "large": 299, "img": "assets/image/drinks/Classic-Cold-Coffee.jpg" },
+      { "name": "Mocha Frappe", "regular": 249, "large": 299, "img": "assets/image/drinks/Hot-matcha.jpg" },
+      { "name": "Vanilla Frappe", "regular": 249, "large": 299, "img": "assets/image/drinks/Vanilla-Frappes.jpg" },
+      { "name": "Hazelnut Frappe", "regular": 249, "large": 299, "img": "assets/image/drinks/Hazelnut-Frappes.jpg" },
+      { "name": "Double Chocolate Frappe", "regular": 279, "large": 319, "img": "assets/image/drinks/Double-Chocolate-Frappes.jpg" },
+      { "name": "Caramel Frappe", "regular": 279, "large": 319, "img": "assets/image/drinks/Caramel-Frappes.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "SHAKES",
+    "description": "Creamy milk blended with premium ingredients for a rich, velvety finish.",
+    "veg": "veg",
+    "items": [
+      { "name": "Chocolate Shake", "regular": 249, "large": 319 ,"img": "assets/image/drinks/Chocolate-shake.jpeg"},
+      { "name": "Brownie Shake", "regular": 249, "large": 319 ,"img": "assets/image/drinks/Brownie-shake.jpg"},
+      { "name": "Strawberry Shake", "regular": 299, "large": 349 , "img": "assets/image/drinks/Strawberry-shake.jpeg"},
+      { "name": "Mango Shake", "regular": 299, "large": 349, "img": "assets/image/drinks/Mango-Shake.jpg" },
+      { "name": "Saffron Cardamom Shake", "regular": 299, "large": 349, "img": "assets/image/drinks/Saffron-Cardamom-Shake.jpg" },
+      { "name": "Oreo Shake", "regular": 249, "large": 319, "img": "assets/image/drinks/Oreo-Shake.jpg" },
+      { "name": "KitKat Shake", "regular": 349, "large": 399, "img": "assets/image/drinks/KitKat.jpg" },
+      { "name": "Rocher Shake", "regular": 349, "large": 399, "img": "assets/image/drinks/Rocher-Shake.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "COLD BREW TEA",
+    "description": "Slow-steeped Ceylon tea unlocking full aroma and natural character.",
+    "veg": "veg",
+    "items": [
+      { "name": "Lemon Iced Tea", "regular": 199, "large": 249, "img": "assets/image/drinks/Lemon-iced-tea.jpeg" },
+      { "name": "Mango Iced Tea", "regular": 219, "large": 269 ,"img": "assets/image/drinks/Mango-Iced-Tea.jpg"},
+      { "name": "Very Berry Iced Tea", "regular": 219, "large": 269, "img": "assets/image/drinks/Berry-iced-tea.jpg" },
+      { "name": "Peach Iced Tea", "regular": 219, "large": 269, "img": "assets/image/drinks/Peach-iced-tea.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "MOJITOS",
+    "veg": "veg",
+    "items": [
+      { "name": "Classic Mojito", "regular": 199, "large": 249, "img": "assets/image/drinks/Classic-Mojito.jpg" },
+      { "name": "Cranberry Mojito", "regular": 199, "large": 249 ,"img": "assets/image/drinks/Cranberry-mojito.jpeg"},
+      { "name": "Blue Curacao Mojito", "regular": 199, "large": 249, "img": "assets/image/drinks/Blue-Curacao-Mojito.jpg" },
+      { "name": "Hibiscus Mojito", "regular": 219, "large": 269, "img": "assets/image/drinks/Hibiscus-mojito.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "SPECIALITY COFFEE",
+    "description": "Chickmangalure & Nilgiri single-estate brews expertly balanced for aroma and body.",
+    "veg": "veg",
+    "items": [
+      { "name": "V60", "price": 249, "img":"assets/image/drinks/V60-Coffee.jpg" },
+      { "name": "French Press", "price": 249, "img":"assets/image/drinks/French-Press.jpg" },
+      { "name": "Aero Press", "price": 249, "img":"assets/image/drinks/Aero-Press.jpg" },
+      { "name": "Pour Over", "price": 249, "img":"assets/image/drinks/Pour-Over.jpg" }
+    ]
+  },
+
+  {
+    "category": "drinks",
+    "section": "MATCHA",
+    "description": "Finely ground Japanese green tea with a smooth, earthy and energizing finish.",
+    "veg": "veg",
+    "items": [
+      { "name": "Hot Matcha", "regular": 329, "large": 369, "img": "assets/image/drinks/Hot-Matcha.jpg" },
+      { "name": "Dirty Matcha", "regular": 329, "large": 369, "img": "assets/image/drinks/Dirty-Matcha.jpg" },
+      { "name": "Iced Matcha Latte", "regular": 329, "large": 369, "img": "assets/image/drinks/Iced-Matcha-Latte.jpg" },
+      { "name": "Iced Mango Matcha", "regular": 349, "large": 399, "img": "assets/image/drinks/Mango-Matcha-Latte.jpg" },
+      { "name": "Iced Strawberry Matcha", "regular": 349, "large": 399, "img": "assets/image/drinks/Iced-Strawberry-Matcha.jpg" }
+    ]
+  }
+]
